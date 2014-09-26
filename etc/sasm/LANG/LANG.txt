@@ -1,0 +1,3 @@
+es Español Spanish
+ca Català Catalan
+en English English

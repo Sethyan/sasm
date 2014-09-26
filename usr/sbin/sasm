@@ -1,0 +1,10 @@
+#!/bin/bash
+sudo echo "inicializando"
+#inin=/etc/sasm/inin
+#if [[ $inin -gt 0 ]]; then
+#	
+#	echo “0” > /etc/sasm/info/inin
+#fi
+cd /etc/sasm/
+./inicio.sh
+exit

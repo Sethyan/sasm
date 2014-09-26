@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo echo "inicializando"
+. /etc/ssm/menu.sh
+exit
